@@ -1,0 +1,6 @@
+company_name,industry,carbon_emissions_tons,energy_usage_kwh,water_consumption_liters,waste_generated_tons,renewable_energy_pct
+GreenByte Solutions,Technology,2500,1200000,50000,150,85
+SteelCraft Industries,Manufacturing,8500,2100000,800000,650,15
+FreshMart Retail,Retail,3200,1600000,120000,420,25
+SunPower Energy,Energy,15000,800000,200000,200,98
+HarvestFields Agri,Agriculture,365,95000,2500000,85,5
